@@ -37,16 +37,7 @@
 <a href="https://www.linkedin.com/in/kalpataru01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kalpataru P" height="30" width="40" /></a>
 
 </p>
-## ⚡ GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kalpataru-P&show_icons=true&count_private=true&theme=gruvbox"/> 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpataru-P&theme=gruvbox" alt="Kalpataru" /><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpataru-P&layout=compact&count_private=true&theme=gruvbox" />
-</div></p>
-
-<br>
-<br>
-</p>
 
 
 
